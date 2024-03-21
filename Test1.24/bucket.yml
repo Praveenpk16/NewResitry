@@ -1,5 +1,5 @@
 flows:
-  a6f49962-82b5-4aeb-b2e5-164d66b81cea: {ver: 2, file: NewFlowTest.snapshot, comments: Funnel
-      Added, author: anonymous, created: 1711020699717, flowName: NewFlowTest, flowDesc: ''}
+  5b7ebbee-999b-497e-a252-953f9a4c06aa: {ver: 1, file: kol.snapshot, comments: v2,
+    author: anonymous, created: 1711026001515, flowName: kol, flowDesc: ''}
 layoutVer: 1
-bucketId: a3b9fd46-401d-4895-b22d-5c916c92caca
+bucketId: af6dea33-1468-4d3b-8262-1fd35c2dc26a
